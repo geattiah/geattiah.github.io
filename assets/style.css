@@ -401,7 +401,7 @@ h3 {
   background-position: center;
 }
 */
-
+/*
 .visual-two {
   background:
     linear-gradient(to top, rgba(23, 49, 61, .90), transparent),
@@ -420,7 +420,7 @@ h3 {
     linear-gradient(to top, rgba(38, 55, 33, .88), transparent),
     linear-gradient(145deg, #5f7652, #9eb58b 45%, #c8b88b);
 }
-
+*/
 .project-content {
   padding: 42px;
 }
@@ -933,4 +933,32 @@ h3 {
     url("./9_Spatial_Yearly_ALL_MODIS.png") center / cover no-repeat !important;
 }
 
+.visual-two {
+  background:
+    linear-gradient(
+      to top,
+      rgba(9, 32, 29, 0.88),
+      rgba(9, 32, 29, 0.12)
+    ),
+    url("./wrcr70406-fig-0008-m.jpg") center / cover no-repeat !important;
+}
 
+.visual-three {
+  background:
+    linear-gradient(
+      to top,
+      rgba(9, 32, 29, 0.88),
+      rgba(9, 32, 29, 0.12)
+    ),
+    url("./1-s2.0-S2214581823002586-gr3_lrg.jpg") center / cover no-repeat !important;
+}
+
+.visual-four {
+  background:
+    linear-gradient(
+      to top,
+      rgba(9, 32, 29, 0.88),
+      rgba(9, 32, 29, 0.12)
+    ),
+    url("./preprints-154063-g002.png") center / cover no-repeat !important;
+}
