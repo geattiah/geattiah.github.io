@@ -393,7 +393,7 @@ h3 {
 }
 
 .visual-one {
-  background:
+  background-image:
     linear-gradient(to top, rgba(9, 32, 29, 0.88), rgba(9, 32, 29, 0.12)),
     url("9_Spatial_Yearly_ALL_MODIS.png");
   background-size: cover;
