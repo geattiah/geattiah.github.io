@@ -1074,4 +1074,19 @@ h3 {
   }
 }
 
+.app-button {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  margin-top: 22px;
+  padding: 12px 20px;
+  background: #173d33 !important;
+  color: #ffffff !important;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+  width: fit-content;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
 
